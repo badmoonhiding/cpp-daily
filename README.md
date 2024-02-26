@@ -1,2 +1,2 @@
 # cpp-daily
-cpp basics
+basic cpp practice
