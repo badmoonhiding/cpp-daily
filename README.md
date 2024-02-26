@@ -1,2 +1,2 @@
-# c-c-1
-daily cpp basics
+# cpp-daily
+cpp basics
