@@ -14,7 +14,7 @@ int school_desks();
 
 int main() {
     cout << "Hello!" << endl;
-    cout << "Let's go some non-trivial math tasks in c++";
+    cout << "Let's go for some non-trivial math tasks in C++";
     nutcracker();
     nutcracker_2();
     last_digit();
