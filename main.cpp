@@ -8,6 +8,7 @@ int num_ten();
 int penultimate_digit();
 int digit_sum();
 int next_even();
+int school_desks();
 
 
 
@@ -21,5 +22,6 @@ int main() {
     penultimate_digit();
     digit_sum();
     next_even();
+    school_desks();
     return 0;
 }

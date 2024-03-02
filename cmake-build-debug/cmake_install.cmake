@@ -1,4 +1,4 @@
-# Install script for directory: /Users/badmoonrising/my_projects/c=c+1/cpp-daily
+# Install script for directory: /Users/badmoonrising/my_projects/cpp-daily/cpp-daily
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/badmoonrising/my_projects/c=c+1/cpp-daily/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/badmoonrising/my_projects/cpp-daily/cpp-daily/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

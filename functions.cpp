@@ -64,3 +64,12 @@ int next_even()
     cout << result << endl;
     return 0;
 }
+
+int school_desks()
+{
+    int n, j, k, result;
+    cin >> n >> j >> k;
+    result = (n / 2) + (n % 2) + (j / 2) + (j % 2) + (k / 2) + (k % 2);
+    cout << result;
+    return 0;
+}

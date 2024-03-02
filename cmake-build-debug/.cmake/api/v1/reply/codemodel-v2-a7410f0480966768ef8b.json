@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/badmoonrising/my_projects/c=c+1/cpp-daily/cmake-build-debug",
-		"source" : "/Users/badmoonrising/my_projects/c=c+1/cpp-daily"
+		"build" : "/Users/badmoonrising/my_projects/cpp-daily/cpp-daily/cmake-build-debug",
+		"source" : "/Users/badmoonrising/my_projects/cpp-daily/cpp-daily"
 	},
 	"version" : 
 	{
