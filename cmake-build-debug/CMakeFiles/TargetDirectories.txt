@@ -1,3 +1,0 @@
-/Users/badmoonrising/my_projects/cpp-daily/cpp-daily/cmake-build-debug/CMakeFiles/cpp_daily.dir
-/Users/badmoonrising/my_projects/cpp-daily/cpp-daily/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/badmoonrising/my_projects/cpp-daily/cpp-daily/cmake-build-debug/CMakeFiles/rebuild_cache.dir
